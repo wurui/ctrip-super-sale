@@ -1,0 +1,6 @@
+{
+  "name": "ctrip-super-sale",
+  "version": "0.0.1",
+  "apiDependencies": ["grid-menu","product-list"]
+}
+

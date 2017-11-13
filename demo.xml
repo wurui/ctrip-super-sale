@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="demo.xsl"?>
+<root>
+    <env>
+        <domain>local</domain>
+    </env>
+    <login>
+        <uid>git/wurui</uid>
+    </login>
+    <p>
+        <title>demo page</title>
+        <desc>this is deme page</desc>
+        <owner>openxsl</owner>
+        <icon>//oxm1.cc/img/app_default.png</icon>
+    </p>
+    <data>
+            <grid-menu>
+        <i>
+            <icon>
+                //a.oxm1.cc/img/fox.jpg
+            </icon>
+            <title>
+                car
+            </title>
+            <tag>
+                good wallet
+            </tag>
+            <href>
+                //a.oxm1.cc/img/fox.jpg
+            </href>
+            <subtitle>
+                nice screen
+            </subtitle>
+        </i>
+        <i>
+            <icon>
+                //a.oxm1.cc/img/fox.jpg
+            </icon>
+            <title>
+                mobilephone
+            </title>
+            <tag>
+                car
+            </tag>
+            <href>
+                //a.oxm1.cc/img/fox.jpg
+            </href>
+            <subtitle>
+                notebook
+            </subtitle>
+        </i>
+    </grid-menu>
+    <product-list>
+        <i>
+            <title>
+                laptop
+            </title>
+            <brief>
+                good notebook
+            </brief>
+            <price>
+                4125.37
+            </price>
+            <img>
+                //a.oxm1.cc/img/fox.jpg
+            </img>
+            <href>
+                //a.oxm1.cc/img/fox.jpg
+            </href>
+            <tags>
+                <i>
+                    good mobilephone
+                </i>
+            </tags>
+            <id>
+                watch
+            </id>
+            <orig_price>
+                5.63
+            </orig_price>
+            <inventory>
+                3030
+            </inventory>
+            <discount>
+                552.64
+            </discount>
+        </i>
+    </product-list>
+    </data>
+</root>
